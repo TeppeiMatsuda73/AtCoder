@@ -32,3 +32,5 @@ for name, age in zip(names, ages):
 # fillvalueを指定で、足りない分をデフォルトで埋める
 # for name, age in zip_longest(name, age, fillvalue="Dave")
 #     print(name, age)  # --> Alice 24  Bob 50  Charlie 18  Dave 30
+
+
